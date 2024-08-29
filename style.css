@@ -1,0 +1,232 @@
+.parent{
+    position: sticky;
+    top: 0;
+    background-color: rgb(255, 255, 255);
+}
+.nav{
+    position: sticky;
+    top: 0;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 7px rgba(255, 255, 255, 0.2);
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.tableau{
+    font-variant:caps;
+    font-style: italic;
+    font-size: larger;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-right: 50px;
+}
+.nav img{
+    width: 30%;
+}
+.first{
+    display: flex;
+    flex-direction: column;
+}
+.tableau{
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    width: 35%;
+    display: flex;
+    justify-content: space-around;
+}
+.nom{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.nom h3{
+    width: 20%;
+}
+.BOS {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin: 0 auto;
+}
+.journey img{
+    width: 90%;
+}
+.imgp img{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+}
+.imgp{
+    width: 1300px;
+    height: 356px;
+    background-color: #ffffff;
+    color: rgb(2, 1, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #ffffff; 
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+    justify-content: space-between;
+    margin: 20px;
+}
+.takr{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+}
+.imgp h1{
+    display: flex;
+    justify-content: space-around;
+    font-family: '911 Porscha', sans-serif;
+font-family: '911 Porscha Condensed', sans-serif;
+font-family: '911 Porscha Italic', sans-serif;
+font-family: '911 Porscha Laser Italic', sans-serif;
+font-family: '911 Porscha Leftalic', sans-serif;
+font-family: '911 Porscha Bold', sans-serif;
+width: 100%;
+}
+#ahbt img{
+    width: 80%;
+}
+#ahbt{
+    width: 100%;
+    margin: 0 auto;
+}
+.textAA img{
+    width: 30% !important;
+}
+.intrr{
+    width: 600px;
+    height: 190px;
+    background-color: #ffffff;
+    color: rgb(2, 1, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #ffffff; 
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px rgba(255, 255, 255, 0.2);
+    justify-content: space-evenly;
+    margin: 20px;
+}
+.int img{
+width: 120%;
+}
+.parent1{
+    display: flex;
+    justify-content: space-between;
+}
+.chooser{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+button{
+    background-color: #223850; 
+    color: white; 
+    border: none; 
+    padding: 10px 20px;
+    font-size: 16px; 
+    border-radius: 5px;
+    transition: background-color 0.3s ease; 
+}
+.chooser{
+    width: 1000px;
+    height: 656px;
+    background-color: #ffffff;
+    color: rgb(2, 1, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #ffffff; 
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px rgba(75, 71, 71, 0.2);
+    justify-content: space-evenly;
+    margin: 20px;
+}
+.btn1 button{
+    background-color: black;
+}
+.btn2 button{
+    background-color: gray;
+}
+.btn3 button{
+    background-color: #782f2f;
+}
+.btn4 button{
+    background-color: #3a4047;
+}
+.btn5 button{
+    background-image: linear-gradient(180deg, #333333 50%, #c7c7bf 50%);
+}
+.btn6 button{
+    background-image: linear-gradient(180deg, #000000 50%, #782f2f 50%);
+}
+.chair1 button{
+    margin-top: 0px;
+    margin-left: -1px;
+    margin-right: -1px;
+    margin-bottom: 0px;
+    background-color: black;
+}
+.chair2 button{
+    background-color: black;
+}
+.chair3 button{
+    background-color: black;
+}
+.int img{
+    width: 100% !important;
+}
+#choice1{
+    width: 30%;
+}#choice2{
+    width: 30%;
+}
+.footer{
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.choicess{
+    background-color: firebrick !important; 
+    color: rgb(255, 255, 255); 
+    border: none; 
+    padding: 10px 20px;
+    font-size: 16px; 
+    border-radius: 5px;
+    transition: background-color 0.3s ease; 
+}
+.footer{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.footer img{
+    width: 4%;
+}
+.textBB{
+    width: 30% !important;
+}
+.resea{
+    display: flex
+}
+.basse button{
+    background-color: rgb(59, 59, 59) !important; 
+    color: rgb(255, 255, 255); 
+    border: none; 
+    padding: 10px 20px;
+    font-size: 16px; 
+    border-radius: 500px;
+    transition: background-color 0.3s ease; 
+    font-family:"Lucida Console", "Courier New", monospace;
+}
